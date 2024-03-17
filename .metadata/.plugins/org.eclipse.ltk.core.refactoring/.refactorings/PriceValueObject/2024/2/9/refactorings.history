@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;obj&apos; in &apos;Price.equals(...)&apos; to &apos;priceToCompare&apos;&#x0D;&#x0A;- Original project: &apos;PriceValueObject&apos;&#x0D;&#x0A;- Original element: &apos;Price.equals(Object).obj&apos;&#x0D;&#x0A;- Renamed element: &apos;obj&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;obj&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Price.java[Price~equals~QObject;@obj!1313!1338!1319!1321!QPrice;!0!false" name="priceToCompare" references="true" stamp="1709238309111" version="1.0"/>
+</session>
